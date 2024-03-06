@@ -1,6 +1,6 @@
 // import React from 'react'
 
-import { useState, useEffect } from "react"
+import { useState } from "react"
 import { useNavigate, useParams } from "react-router-dom"
 
 function Update() {
@@ -35,7 +35,7 @@ function Update() {
         }).then(response => {
             if (response.ok) {
                 navigate('/');
-              alert("Data Updated successfully");
+              alert("Data Updated successfuls");
             } else {
               alert("Failed to Update data");
             }
