@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": "f74e",
+      "username": "sdf",
+      "email": "sdf@gmail.com",
+      "category": "Birthday"
+    },
+    {
+      "id": "9f19",
+      "username": "viddhi Ladva",
+      "email": "viddhi@gmail.com",
+      "category": "Good-Performance"
+    }
+  ]
+}
