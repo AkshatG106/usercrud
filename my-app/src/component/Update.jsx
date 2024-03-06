@@ -35,7 +35,7 @@ function Update() {
         }).then(response => {
             if (response.ok) {
                 navigate('/');
-              alert("Data Updated successfuls");
+              alert("Data Updated successfully");
             } else {
               alert("Failed to Update data");
             }
